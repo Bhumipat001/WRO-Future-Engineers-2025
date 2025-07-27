@@ -3,17 +3,14 @@ import numpy as np
 import time
 
 def turn_left():
-    # TODO: เขียนโค้ดสั่งให้รถเลี้ยวซ้าย
     print("Turning left")
     pass
 
 def turn_right():
-    # TODO: เขียนโค้ดสั่งให้รถเลี้ยวขวา
     print("Turning right")
     pass
 
 def go_straight():
-    # TODO: เขียนโค้ดสั่งให้รถตรงไป
     print("Going straight")
     pass
 
