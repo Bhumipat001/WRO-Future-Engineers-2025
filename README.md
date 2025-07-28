@@ -4,17 +4,23 @@ This is the database for the Teerangkasamtea team project. We want to build a ro
 ### Member
 
 
-<img src="https://drive.google.com/uc?export=view&id=1fMeTec027H6ggMW932P2X6IZFke-Ucso" height="350" />   <img src="https://drive.google.com/uc?export=view&id=1AYg6WzgcXvyXyHHYJWzUtNByXyqWuBFd" height="350" />   <img src="https://drive.google.com/uc?export=view&id=1GWZjl8mqTYcv35-AMe_KGhswpacgvCI1" height="350" />
-  
- 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://drive.google.com/uc?export=view&id=1fMeTec027H6ggMW932P2X6IZFke-Ucso" height="350" /><br/>
+      <b>Thitipat Sirithienchai (Zen)</b>
+    </td>
+    <td align="center">
+      <img src="https://drive.google.com/uc?export=view&id=1AYg6WzgcXvyXyHHYJWzUtNByXyqWuBFd" height="350" /><br/>
+      <b>Bhumipat Sirichayanugul (Bhum)</b>
+    </td>
+    <td align="center">
+      <img src="https://drive.google.com/uc?export=view&id=1GWZjl8mqTYcv35-AMe_KGhswpacgvCI1" height="350" /><br/>
+      <b>Kittiphot Denkeerati (First)</b>
+    </td>
+  </tr>
+</table>
 
-  
-
- 
-
-- Thitipat Sirithienchai (Zen) 
-- Bhumipat Sirichayanugul (Bhum)
-- Kittiphot Denkeerati (First)
 
 ## Content
 
