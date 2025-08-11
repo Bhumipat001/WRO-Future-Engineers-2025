@@ -38,7 +38,7 @@ Bill of materials
 | ---------| ---------------------------------- | ----------------------------------------------
 |  1   |  Raspberry Pi 5 8gb            |             |
 |   1     |  Rp lidar C1         |               |
-|    1    | Intel RealSense Depth Camera D435i                   |                          |
+|    1    | Intel RealSense Depth Camera D415                   |                          |
 |    1    |  RRC Lite Controller        |               |
 |        | |  |
 |        |         |            |
