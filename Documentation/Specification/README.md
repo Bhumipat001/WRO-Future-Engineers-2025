@@ -37,4 +37,4 @@
 ## 5. Power Supply
 | Quantity | Part Name             | Description                | Image |
 |----------|-----------------------|----------------------------|-------|
-| 1        | Battery Pack Li-ion 5200 mAh | Main power source for motors & Raspberry Pi | ![Battery Pack](image-link) |
+| 1        | Battery Pack Li-ion 5200 mAh | Main power source for motors & Raspberry Pi | ![Battery Pack](https://github.com/Bhumipat001/WRO-Future-Engineers-2025/blob/main/Documentation/Specification/Battery%20Pack%20Li-ion%205200%20mAh.webp) |
