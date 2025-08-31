@@ -42,5 +42,5 @@ Bill of materials
 |    1    |  RRC Lite Controller        |               |
 |    1    | Servo LD-1501MG |  |
 |    4    |    65 mm wheels     |            |
-|        |    |       |
-|      |         |   
+|    1    | General Driver board for Robots   |       |
+|   1   |    Raspberry Pi AI Kit, Hailo 8L   |   
