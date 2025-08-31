@@ -31,22 +31,3 @@ This is the database for the Teerangkasamtea team project. We want to build a ro
 
 
 
-
-
-
-
-## OUR ROBOT
-Bill of materials
-
-| Quantity | Status                             | Description                                                                                                                                             
-| ---------| ---------------------------------- | ----------------------------------------------
-|  1   |  Raspberry Pi 5 8gb            |             |
-|   1     |   RPLIDAR C1 sensor         |               |
-|    1    | Intel RealSense Depth Camera D415                   |                          |
-|    1    |  RRC Lite Controller        |               |
-|    1    | Servo LD-1501MG |  |
-|    4    |    65 mm wheels     |            |
-|    1    | General Driver board for Robots   |       |
-|   1   |    Raspberry Pi AI Kit, Hailo 8L   |   
-| 1 | Raspberry Pi M.2 HAT+ |
-| 1 | Chassis(Hiwonder MentorPi A1 Raspberry Pi) |
