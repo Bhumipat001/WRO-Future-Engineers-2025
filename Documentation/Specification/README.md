@@ -31,3 +31,10 @@
 | Quantity | Part Name                  | Description | Image |
 |----------|-----------------------------|-------------|-------|
 | 1        | Chassis (Hiwonder MentorPi A1) | Robot base chassis | ![Chassis](image-link) |
+
+---
+
+## 5. Power Supply
+| Quantity | Part Name             | Description                | Image |
+|----------|-----------------------|----------------------------|-------|
+| 1        | Battery Pack Li-ion 5200 mAh | Main power source for motors & Raspberry Pi | ![Battery Pack](image-link) |
