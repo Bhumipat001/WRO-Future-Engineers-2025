@@ -44,3 +44,4 @@ Bill of materials
 |    4    |    65 mm wheels     |            |
 |    1    | General Driver board for Robots   |       |
 |   1   |    Raspberry Pi AI Kit, Hailo 8L   |   
+| 1 | Raspberry Pi M.2 HAT+ |
