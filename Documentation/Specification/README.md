@@ -30,7 +30,7 @@
 ## 4. Structure
 | Quantity | Part Name                  | Description | Image |
 |----------|-----------------------------|-------------|-------|
-| 1        | Chassis (Hiwonder MentorPi A1) | Robot base chassis | ![Chassis](image-link) |
+| 1        | Chassis (Hiwonder MentorPi A1) | Robot base chassis | ![Chassis](https://github.com/Bhumipat001/WRO-Future-Engineers-2025/blob/main/Documentation/Specification/Chassis%20(Hiwonder%20MentorPi%20A1).png) |
 
 ---
 
