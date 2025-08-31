@@ -24,7 +24,7 @@ This is the database for the Teerangkasamtea team project. We want to build a ro
 
 ## Content
 
-- [code](https://github.com/Bhumipat001/WRO-Future-Engineers-2025/tree/main/Code) Contains the code for processing.
+- [code](https://github.com/Bhumipat001/WRO-Future-Engineers-2025/tree/main/Code) Contains the code for processing and setup.
 
 ## Performance Video
 
