@@ -24,6 +24,8 @@ This is the database for the Teerangkasamtea team project. We want to build a ro
 
 ## Content
 
+## Performance Video
+
 
 
 
@@ -37,7 +39,7 @@ Bill of materials
 | Quantity | Status                             | Description                                                                                                                                             
 | ---------| ---------------------------------- | ----------------------------------------------
 |  1   |  Raspberry Pi 5 8gb            |             |
-|   1     |  Rp lidar C1         |               |
+|   1     |   RPLIDAR C1 sensor         |               |
 |    1    | Intel RealSense Depth Camera D415                   |                          |
 |    1    |  RRC Lite Controller        |               |
 |    1    | Servo LD-1501MG |  |
