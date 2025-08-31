@@ -22,7 +22,7 @@
 |----------|-----------------------------|-------------|-------|
 | 1        | RRC Lite Controller         | Robot controller | ![RRC Lite](https://github.com/Bhumipat001/WRO-Future-Engineers-2025/blob/main/Documentation/Specification/RRC%20Lite%20Controller.webp) |
 | 1        | General Driver Board for Robots | Motor driver | ![Driver Board](https://github.com/Bhumipat001/WRO-Future-Engineers-2025/blob/main/Documentation/Specification/General%20Driver%20Board%20for%20Robots.jpg) |
-| 1        | Servo LD-1501MG             | High torque servo motor | ![Servo](image-link) |
+| 1        | Servo LD-1501MG             | High torque servo motor | ![Servo](https://github.com/Bhumipat001/WRO-Future-Engineers-2025/blob/main/Documentation/Specification/Servo%20LD-1501MG.webp) |
 | 4        | 65 mm Wheels                | Wheels for chassis | ![Wheels](image-link) |
 
 ---
