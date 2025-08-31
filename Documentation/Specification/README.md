@@ -4,8 +4,8 @@
 | Quantity | Part Name                  | Description | Image |
 |----------|-----------------------------|-------------|-------|
 | 1        | Raspberry Pi 5 (8GB)        | Main computer | ![Raspberry Pi 5](https://github.com/Bhumipat001/WRO-Future-Engineers-2025/blob/main/Documentation/Specification/Raspberry%20Pi%205%20(8GB).jpg) |
-| 1        | Raspberry Pi AI Kit (Hailo 8L) | AI accelerator | ![AI Kit]([image-link](https://github.com/Bhumipat001/WRO-Future-Engineers-2025/blob/main/Documentation/Specification/Raspberry%20Pi%20AI%20Kit%20(Hailo%208L).jpg)) |
-| 1        | Raspberry Pi M.2 HAT+       | Expansion board for M.2 | ![M.2 HAT](image-link) |
+| 1        | Raspberry Pi AI Kit (Hailo 8L) | AI accelerator | ![AI Kit](https://github.com/Bhumipat001/WRO-Future-Engineers-2025/blob/main/Documentation/Specification/Raspberry%20Pi%20AI%20Kit%20(Hailo%208L).jpg)) |
+| 1        | Raspberry Pi M.2 HAT+       | Expansion board for M.2 | ![M.2 HAT](https://github.com/Bhumipat001/WRO-Future-Engineers-2025/blob/main/Documentation/Specification/Raspberry%20Pi%20M.2%20HAT%2B.jpg)) |
 
 ---
 
