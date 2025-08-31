@@ -40,7 +40,7 @@ Bill of materials
 |   1     |  Rp lidar C1         |               |
 |    1    | Intel RealSense Depth Camera D415                   |                          |
 |    1    |  RRC Lite Controller        |               |
-|        | |  |
-|        |         |            |
+|    1    | Servo LD-1501MG |  |
+|    4    |    65 mm wheels     |            |
 |        |    |       |
 |      |         |   
