@@ -1,4 +1,4 @@
-## specifications 
+# specifications 
 
 ## 1. Core Computing
 | Quantity | Part Name                  | Description | Image |
