@@ -13,7 +13,7 @@
 | Quantity | Part Name                  | Description | Image |
 |----------|-----------------------------|-------------|-------|
 | 1        | RPLIDAR C1 Sensor           | LIDAR for mapping and obstacle detection | ![RPLIDAR C1](https://github.com/Bhumipat001/WRO-Future-Engineers-2025/blob/main/Documentation/Specification/RPLIDAR%20C1%20sensor.jpg) |
-| 1        | Intel RealSense Depth Camera D415 | Depth camera for 3D vision | ![RealSense D415](image-link) |
+| 1        | Intel RealSense Depth Camera D415 | Depth camera for 3D vision | ![RealSense D415](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tesrshop.com%2Fproduct%2Fintel-realsense-depth-camera-d415%2F11000571270000382&psig=AOvVaw0VXfuj9XMLzSCSU4hL9xuD&ust=1756729012806000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLCl6dmDtY8DFQAAAAAdAAAAABAL) |
 
 ---
 
