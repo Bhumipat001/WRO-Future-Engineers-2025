@@ -47,3 +47,4 @@ Bill of materials
 |    1    | General Driver board for Robots   |       |
 |   1   |    Raspberry Pi AI Kit, Hailo 8L   |   
 | 1 | Raspberry Pi M.2 HAT+ |
+| 1 | Chassis(Hiwonder MentorPi A1 Raspberry Pi) |
