@@ -8,8 +8,3 @@ This is the database for the Teerangkasamtea team project. We want to build a ro
 - [code](https://github.com/Bhumipat001/WRO-Future-Engineers-2025/tree/main/Code) Contains the code for processing and setup.
 - [Specifications](https://github.com/Bhumipat001/WRO-Future-Engineers-2025/tree/main/Documentation/Specification) Contains the specifications of various parts for make this robot
 
-## Performance Video
-
-
-
-
